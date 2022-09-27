@@ -7,8 +7,8 @@
 Описание использования
 Проект можно открыть в среде Microsoft VS, для запуска достаточно открыть файл 3lab.py. Призапуске кода следует ввести текст и сдвиг, как и просит программа. #Примеры выполнения программы
 
-[![пример 1](https://github.com/clre4mer/lab3/blob/main/утер.png)]
+[![пример 1](https://github.com/clre4mer/lab-3/blob/main/утер.png)]
 
-[![пример 2](https://github.com/clre4mer/lab3/blob/main/план.png)]
+[![пример 2](https://github.com/clre4mer/lab-3/blob/main/план.png)]
 
-[![пример 2](https://github.com/clre4mer/lab3/blob/main/Кенни.png)]
+[![пример 2](https://github.com/clre4mer/lab-3/blob/main/Кенни.png)]
